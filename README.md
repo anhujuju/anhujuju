@@ -18,9 +18,9 @@
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anhujuju&label=Profile%20views&color=0e75b6&style=flat" alt="anhujuju" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=anhujuju&label=Profile%20views&color=0e75b6&style=flat" alt="anhujuju" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anhujuju" alt="anhujuju" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anhujuju" alt="anhujuju" /></a> </p>
 
 - 🔭 I’m currently working on [Revolucion Digital](revoluciondigitalmk.com)
 
