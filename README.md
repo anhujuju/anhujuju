@@ -26,7 +26,7 @@
 
 - 🌱 I’m currently learning **Blender,Zbrush and engines (Unity and Unreal)**
 
-- 👯 I’m looking to collaborate on [Polygon Race](github.com/santiagopemo/polygon-race)
+- 👯 I’m looking to collaborate on [Polygon Race](https://github.com/santiagopemo/polygon-race)
 
 - 👨‍💻 All of my projects in 3D Art [https://www.artstation.com/anhujuju](https://www.artstation.com/anhujuju)
 
